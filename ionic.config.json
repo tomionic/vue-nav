@@ -1,0 +1,7 @@
+{
+  "name": "tab-nav-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
